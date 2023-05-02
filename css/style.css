@@ -1,7 +1,12 @@
 .scheda {
     width: calc(100% / 3);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #griglia {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
 }
