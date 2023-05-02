@@ -1,0 +1,7 @@
+.scheda {
+    width: calc(100% / 3);
+}
+#griglia {
+    display: flex;
+    flex-wrap: wrap;
+}
